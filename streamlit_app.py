@@ -1,10 +1,6 @@
 import streamlit as st
 
-<<<<<<< HEAD
 st.title("🎈 New Streamlit app")
-=======
-st.title("🎈 My new Streamlit app")
->>>>>>> bd575098760aab65ede83af8d814168ebaaa2d51
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
